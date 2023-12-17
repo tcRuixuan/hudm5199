@@ -1,8 +1,8 @@
 #grades {
     margin-bottom: 20px;
 }
-h1 {
-    text-align: center;
+#my-custom-h1 {
+    color: red;
 }
 .bold-label {
     font-weight: bold;
